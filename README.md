@@ -1,14 +1,6 @@
----
-title: "Calpha Package"
-author: "Prepared By: Ozlu Dolma"
-output:
-  html_document: default
-  pdf_document: default
----
+### **Calpha Package**
+Prepared By: Ozlu Dolma
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 ### **Installation**
 
